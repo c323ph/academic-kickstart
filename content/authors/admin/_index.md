@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-# role: Professor of Artificial Intelligence
-
+ role: We provide products that will help you achieve a simple, basic upkeep of your health.
+ 
 # Organizations/Affiliations
 # organizations:
 # - name: Stanford University
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
- bio: We provide products that will help you achieve a simple, basic upkeep of your health.
+#  bio: 
 
 # interests:
 # - Artificial Intelligence
