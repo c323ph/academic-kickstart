@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Basic Care PH
+name: ""
 
 # Username (this should match the folder name)
 authors:
