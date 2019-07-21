@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Products"
-  url = "#accomplishments"
+  url = "#posts"
   weight = 20
 
 # [[main]]
