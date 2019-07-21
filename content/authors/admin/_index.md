@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
- role: We provide products that will help you achieve a simple, basic upkeep of your health.
+# role: We provide products that will help you achieve a simple, basic upkeep of your health.
  
 # Organizations/Affiliations
 # organizations:
